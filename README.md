@@ -1,8 +1,8 @@
 # SublimeWithC
 deploy C++ builder for sublime
-*************
+
 use the following code to create a new sublime build system.
-*************
+
 {
     // "shell_cmd": "make"
     "encoding": "utf-8",
@@ -23,3 +23,4 @@ use the following code to create a new sublime build system.
         }
     ]
 }
+
